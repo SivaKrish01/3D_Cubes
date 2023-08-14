@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1fcaa3893d2d3124296fb5c81b2bfb4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Passionate Relationship
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8891a26b3995d414888a3ff9bef4aac9, type: 3}
+  - {fileID: 12800000, guid: 93c8283b235dcae4f83e1854da0e09c6, type: 3}
+  - {fileID: 12800000, guid: aba2fe4f0cb7e6e4dbe75e6fae10e3fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

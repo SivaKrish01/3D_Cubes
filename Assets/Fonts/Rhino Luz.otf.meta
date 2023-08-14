@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d6af63b317cd7dc4e96bd524b5c3f6d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rhino
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2323df833aebf946ab1d9250aad2d01, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
